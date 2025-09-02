@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-**[🌐 Access the Application]((https://student-performance-trackeromega-adjsjs6zxkq5btxzrchwtu.streamlit.app/))**
+**[🌐 Access the Application](https://student-performance-trackeromega-adjsjs6zxkq5btxzrchwtu.streamlit.app/)**
 
 ## 📋 Table of Contents
 
